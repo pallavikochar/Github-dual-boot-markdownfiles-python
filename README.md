@@ -6,12 +6,12 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. Hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others. Creating branches(working on various parts/versions of the same repository) Make and commit changes(if one wishes to change any particular part of code or some statements ) Pull request(propsing your changes to someone else to get reviewed) Merge request(merging the branch reviewed by others into the master branch) This is how a particular project can be made organized and working on it becomes simpler and more collaberative.
 ## 3. Creating branch(work on different versions of a repository at one time)
 By default repositoy has a branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master. If someone else made changes to the master branch while we were working on your branch, we could pull in those updates.
-References: https://guides.github.com/activities/hello-world/
+### References: https://guides.github.com/activities/hello-world/
 # Dual boot: 
-Reference: https://www.youtube.com/watch?v=u5QyjHIYwTQ
+### Reference: https://www.youtube.com/watch?v=u5QyjHIYwTQ
 # Markdown:
 Any files with .md extension are markdown files. Markdown language is extensively used to write files precisely. Markdown Files are very easy to write and handle. It has its own cheatsheet to follow.Markdown is often used to format readme files, for writing messages in online forums,and to create rich text using a plain text editor. 
-References: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+### References: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 # PYTHON:
 Python is a high level programming language which is easy to understand by its code. It is widely used by software developers, programmers, etc.
 ## 1. An Informal Introduction to Python
@@ -90,4 +90,4 @@ Python is a high level programming language which is easy to understand by its c
 8. Iterators
 9. Generators
 10. Generator Expressions
-References: https://docs.python.org/3/tutorial/ , https://www.learnpython.org/
+### References: https://docs.python.org/3/tutorial/ , https://www.learnpython.org/
