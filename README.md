@@ -20,6 +20,18 @@ Python is a high level programming language which is easy to understand by its c
   1.2. Strings 
   1.3. Lists
 2. First Steps Towards Programming
+
+#### NOTE: 
+1. a/b  # classic division returns a float
+2. a//b  # floor division discards the fractional part
+3. a%b  # the % operator returns the remainder of the division
+4. a** b  # a to the power of b
+5. Python supports numbers of type int, float, Decimal and Fraction
+6. Has built-in support for complex numbers, and uses the j or J suffix to indicate the imaginary part (a+bj).
+7. 'doesn\'t'  # use \' to escape the single quote..."doesn't"
+8.  print('C:\some\name')  # here \n means newline!...C:\some
+9.  print(r'C:\some\name')  # note the r before the quote...C:\some\name (raw strings)
+10. 
 ## 2. More Control Flow Tools
 1. if Statements
 2. for Statements
@@ -42,6 +54,9 @@ Python is a high level programming language which is easy to understand by its c
   7.7. Documentation Strings
   7.8. Function Annotations
 8. Intermezzo: Coding Style
+
+### NOTE:
+
 ## 3. Data Structures
 1. More on Lists
   1.1. Using Lists as Stacks
@@ -55,6 +70,9 @@ Python is a high level programming language which is easy to understand by its c
 6. Looping Techniques
 7. More on Conditions
 8. Comparing Sequences and Other Types
+
+### NOTE:
+
 ## 4. Input and Output
 1. Fancier Output Formatting
   1.1. Formatted String Literals
@@ -64,6 +82,9 @@ Python is a high level programming language which is easy to understand by its c
 2. Reading and Writing Files
   2.1. Methods of File Objects
   2.2. Saving structured data with json
+
+### NOTE:
+
 ## 5. Errors and Exceptions
 1. Syntax Errors
 2. Exceptions
@@ -72,6 +93,9 @@ Python is a high level programming language which is easy to understand by its c
 5. User-defined Exceptions
 6. Defining Clean-up Actions
 7. Predefined Clean-up Actions
+
+### NOTE:
+
 ## 6. Classes
 1. A Word About Names and Objects
 2. Python Scopes and Namespaces 
