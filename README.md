@@ -1,4 +1,4 @@
-# Virtual-Keyboard-documentation
+# Virtual-Keyboard-documentation week1
 # Github:
 ## 1. What is Github?
 GitHub is a code hosting platform for version control and collaboration. It lets people work together on projects from anywhere.
