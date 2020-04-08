@@ -31,7 +31,11 @@ Python is a high level programming language which is easy to understand by its c
 7. 'doesn\'t'  # use \' to escape the single quote..."doesn't"
 8.  print('C:\some\name')  # here \n means newline!...C:\some
 9.  print(r'C:\some\name')  # note the r before the quote...C:\some\name (raw strings)
-10. 
+10. s[:i] + s[i:] is always equal to s:
+11. The while loop executes as long as the condition remains true.
+12. The keyword argument end can be used to avoid the newline after the output
+
+
 ## 2. More Control Flow Tools
 1. if Statements
 2. for Statements
