@@ -69,15 +69,15 @@ Python is a high level programming language which is easy to understand by its c
 7. range(0, 10, 3)  0, 3, 6, 9
 8. sum(range(4))  # 0 + 1 + 2 + 3 = 6
 9. list(range(4))  [0, 1, 2, 3]
-10. 
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
+10. The break statement breaks out of the innermost enclosing for or while loop.
+11. Loop statements may have an else clause i.e. the else clause belongs to the for loop, not the if statement
+12. The pass can be used when a statement is required syntactically but the program requires no action.
+13. The keyword def introduces a function definition
+14. The return statement returns with a value from a function
+15. The statement result.append(a) calls a method of the list object result
+16. A method is a function that ‘belongs’ to an object and is named obj.methodname
+17. The method append() adds a new element at the end of the list
+18. 
 19.
 20.
 
