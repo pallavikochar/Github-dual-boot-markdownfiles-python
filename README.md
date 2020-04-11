@@ -77,8 +77,8 @@ Python is a high level programming language which is easy to understand by its c
 15. The statement result.append(a) calls a method of the list object result
 16. A method is a function that ‘belongs’ to an object and is named obj.methodname
 17. The method append() adds a new element at the end of the list
-18. 
-19.
+18. Functions can also be called using keyword arguments of the form kwarg=value
+19. When a final formal parameter of the form **name is present, it receives a dictionary (see Mapping Types — dict) containing all keyword arguments except for those corresponding to a formal parameter
 20.
 
 ## 3. Data Structures
