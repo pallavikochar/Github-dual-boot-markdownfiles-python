@@ -101,6 +101,23 @@ Python is a high level programming language which is easy to understand by its c
 8. Comparing Sequences and Other Types
 
 ### NOTE:
+1. list.append(x) Add an item to the end of the list. Equivalent to a[len(a):] = [x].
+2. list.extend(iterable) Extend the list by appending all the items from the iterable. Equivalent to a[len(a):] = iterable
+3. ist.insert(i, x) Insert an item at a given position. The first argument is the index of the element before which to insert, so a.insert(0, x) inserts at the front of the list, and a.insert(len(a), x) is equivalent to a.append(x).
+4. list.remove(x) Remove the first item from the list whose value is equal to x. It raises a ValueError if there is no such item.
+5. list.pop([i]) Remove the item at the given position in the list, and return it. If no index is specified, a.pop() removes and returns the last item in the list. 
+6. list.clear() Remove all items from the list. Equivalent to del a[:].
+7. list.index(x[, start[, end]]) Return zero-based index in the list of the first item whose value is equal to x. Raises a ValueError if there is no such item.
+8. list.count(x) Return the number of times x appears in the list.
+9. list.sort(key=None, reverse=False) Sort the items of the list in place 
+10. list.reverse() Reverse the elements of the list in place.
+11. list.copy() Return a shallow copy of the list. Equivalent to a[:].
+12. The list methods make it very easy to use a list as a stack, (“last-in, first-out”)
+13. 
+14.
+15.
+16.
+
 
 ## 4. Input and Output
 1. Fancier Output Formatting
