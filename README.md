@@ -84,7 +84,7 @@ Python is a high level programming language which is easy to understand by its c
 22. >>> args = [3, 6] >>> list(range(*args))   # call with arguments unpacked from a list [3, 4, 5]
 23. Small anonymous functions can be created with the lambda keyword #lambda a, b: a+b
 24. Another use of lambda is to pass a small function as an argument
-25. 
+25. Annotations are stored in the __annotations__ attribute of the function as a dictionary and have no effect on any other part of the function
 
 ## 3. Data Structures
 1. More on Lists
