@@ -60,6 +60,26 @@ Python is a high level programming language which is easy to understand by its c
 8. Intermezzo: Coding Style
 
 ### NOTE:
+1. x = int(input(" "))
+2. if x < 0: [note the colon]
+3. The keyword ‘elif’ is short for ‘else if’
+4. Python’s for statement iterates over the items of any sequence (a list or a string)
+5. range(5)  0, 1, 2, 3, 4
+6. range(5, 10)  5, 6, 7, 8, 9
+7. range(0, 10, 3)  0, 3, 6, 9
+8. sum(range(4))  # 0 + 1 + 2 + 3 = 6
+9. list(range(4))  [0, 1, 2, 3]
+10. 
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 
 ## 3. Data Structures
 1. More on Lists
