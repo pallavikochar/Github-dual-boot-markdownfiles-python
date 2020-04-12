@@ -113,10 +113,10 @@ Python is a high level programming language which is easy to understand by its c
 10. list.reverse() Reverse the elements of the list in place.
 11. list.copy() Return a shallow copy of the list. Equivalent to a[:].
 12. The list methods make it very easy to use a list as a stack, (“last-in, first-out”)
-13. 
-14.
-15.
-16.
+13. To implement a queue, use collections.deque which was designed to have fast appends and pops from both ends...  from collections import deque
+14. List comprehensions provide a concise way to create lists
+15. squares = list(map(lambda x: x**2, range(10))) or = [x**2 for x in range(10)]
+16. 
 
 
 ## 4. Input and Output
